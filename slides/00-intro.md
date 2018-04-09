@@ -1,6 +1,17 @@
 # intro
+## whoami
+### me
+- IT student
+- hacker*ish*
+- purist
+
+### my maschine
+- arch
+- vim
+- qtile
+
 ## motivation
-- eveyone works in groups
+- everyone works in groups
 - split tasks
 - backup/versioning
 - easy/reapatable structure
