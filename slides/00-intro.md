@@ -10,20 +10,18 @@
 - vim
 - qtile
 
-## motivation
-- everyone works in groups
-- split tasks
-- backup/versioning
-- easy/reapatable structure
-- similiar pipline
-  - tasks -> divide -> work -> merge -> submit
-- tooling
-- unix is sexy
-  - few dependecy
-  - hackable!
+### this presentation
+- is [online](https://github.com:wahrwolf/cooperative-work-with-gitt)
 
-## target group
-- dudes with computers
-- hackers
-- programming exercises
-- eveything with a handout
+## motivation
+- everyone has to do practice lessons
+- often in groups
+- typical coding
+- different content, simliar form
+  - tasks -> divide -> work -> merge -> submit
+- sometimes everyone helps, sometimes you work alone
+- working in different places
+- keep an backup/history of things
+- use standard software
+- be lazy, do not repeat yourself
+

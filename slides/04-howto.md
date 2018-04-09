@@ -3,14 +3,14 @@
 - generate ssh keys
   - `mkdir -p ~/.ssh/keys`
   - `ssh-keygen -f ~/.ssh/keys/gogs_rsa`
-- ssh config:
+
+### ssh config:
 ```
-    #/home/user/.ssh/config
-    Host gogs
-	    Hostname gogs.mafiasi.de
-	    User gogs 
-	    IdentityFile ~/.ssh/keys/gogs_rsa
-	    IdentitiesOnly yes
+Host gogs
+	Hostname gogs.mafiasi.de
+	User gogs 
+	IdentityFile ~/.ssh/keys/gogs_rsa
+	IdentitiesOnly yes
 ```
 
 ## setting up the team
@@ -24,7 +24,7 @@
   - send test mail
 
 ## setting up the repo
-- e.g. [here](https://gogs.mafiasi.de)
+- e.g. [gogs](https://gogs.mafiasi.de)
   - add correct .gitignore
 - `git clone gogs:user/{lecture}-{semester}-{slug}`
 - edit README.md
@@ -56,3 +56,16 @@
 - `git add 00/`
 - `git commit -m "00: init"`
 
+### example dir
+```
+06
+|--- ddt.pdf
+|--- task-06  
+|   |--- ddt.tex  
+|   |--- img  
+|       |--- octopus.png
+|   ---- Teilaufgaben  
+|       |--- 6.1.tex  
+|       |--- 6.2.tex  
+---- tasksheet-06.pdf  
+```

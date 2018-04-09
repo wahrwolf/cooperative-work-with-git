@@ -8,15 +8,24 @@
 - present/submit the solution
 
 ## common challanges
-- how to split the tasks
-- how to track the tasks
-- how to access progress made during lessons
-- who commited changes?
 - how to sync progress?
+- who commited changes?
+- how to split the tasks
+- how to track progress
+- how to access code made on different maschines
 - how to build submitable solutions
 
 ## tools used
 - IM (e.g. whatsapp/telegram)
+  - sooo many messengers
 - usb sticks
+  - you lose them
+  - you have to pass them around
 - dropbox
-- skype?
+  - pain to upload per hand
+  - messes up if you work with to many
+  - hard to control what gets synched
+- Editors/IDE
+  - free yourself
+- prezi/powerpoint
+  - try to move stuff

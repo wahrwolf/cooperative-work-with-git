@@ -19,3 +19,9 @@
 - create a group/mail list for every group
 - create a git repo for every course
 - track work using git (everytime everywhere)
+
+### Note
+- from here on we will actually do stuff
+- work along with me
+- please ask questions
+- please try things  out!

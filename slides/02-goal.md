@@ -1,5 +1,10 @@
 # goals
 ## working on files
+- everyone has access to the code
+  - from all devices
+  - sometiems even other groups
+- named versions
+  - I want to see who fckd things up
 - everything is saved
 - easy diff view
 - import/export of work during lessons
